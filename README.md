@@ -19,7 +19,7 @@
     </tfoot>
     <tbody>
       <tr>
-        <th><img src="https://kr.freepik.com/free-photo/fried-pork-cutlet-curry-with-rice-dark-surface_13805400.htm#fromView=keyword&page=1&position=1&uuid=51a1a723-625d-471a-a849-42b49e40f145&query=%EC%B9%B4%EB%A0%88" width="90%"></img></th>
+        <th><img src="" width="90%"></img></th>
       </tr>
     </tbody>
   </table>
