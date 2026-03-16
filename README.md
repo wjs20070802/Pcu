@@ -19,7 +19,11 @@
     </tfoot>
     <tbody>
       <tr>
-        <th><img src="_i0VJ9PHriQcoigzJaxTmG9EywPNz9Dwmj-6VumYAbh7IXMsvaNGSDe5mKMmSZKMtcgC3fcQJ39hAj4ikG3HJQ.webp" width="90%"></img></th>
+        <th><img src="iwB1bgpbU1uzGPR8X7YFyVTrMVBCaMvU90Ua-RKHmXwwfjL1XW5pps2MAG1b7dvXD5sMsugglWgFw1UMQxC8rg.webp" width="70%"></img></th>
+    <th><img
+          src="_i0VJ9PHriQcoigzJaxTmG9EywPNz9Dwmj-6VumYAbh7IXMsvaNGSDe5mKMmSZKMtcgC3fcQJ39hAj4ikG3HJQ.webp" width="70%"></img></th>
+    <th><img
+src="cgKx7NNZx0oRCLUcEDLfOBD4c2f_wMSlb-vwRIBLW43se25ItEYRE6TEfImd1Mu_g9AU10TnkPmvfzC5vNh8zA.webp" width="70%"></img></th>
       </tr>
     </tbody>
   </table>
