@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>2688047 전현구 과제</title>
+    </head>
+    <body>
+        <h2>컴퓨터 견적 짜기</h2><br>
+        <h5>원하시는 사양을 골라주세요.</h5><hr>
+        <h4>CPU</h4>
+        <h5>저급기(Low-end)</h5><br>
+        <form>
+            <label>
+                <input type="radio" name="cpu" value="1">
+                i5-13600k(약 37만원) <img src="img/i5-14600k.png" width="100">
+            </label>
+            <label>
+                <input type="radio" name="cpu" value="2">
+                R5-9600(약 33만원) <img src="img/R5-9600.jpg" width="150">
+            </label>
+            <h5>중급기(Mid-end)</h5><br>
+            <label>
+                <input type="radio" name="cpu" value="3">
+                i7-13700k(약 50만원) <img src="img/i7-14700k.png" width="100">
+            </label>
+            <label>
+                <input type="radio" name="cpu" value="4">
+                R7-9700X(약 57만원) <img src="img/R7-9700X.jpg" width="150">
+            </label>
+            <h5>상급기(high-end)</h5><br>
+            <label>
+                <input type="radio" name="cpu" value="5">
+                i9-13900k(약 75만원) <img src="img/i9-14900k.png" width="100">
+            </label>
+            <label>
+                <input type="radio" name="cpu" value="6">
+                R7-9950X3D(약 110만원) <img src="img/R9-9950X3D.jpg" width="150">
+            </label>    
+        </form><hr>
+        <h4>GPU</h4>
+        <select name = "gpu">
+            <option value="1" selected>---GeForce RTX 50---</option>
+            <option value="2">GeForce RTX 5050(약 45만원)</option>
+            <option value="3">GeForce RTX 5060(약 57만원)</option>
+            <option value="4">GeForce RTX 5060ti[8GB](약 65만원)</option>
+            <option value="5">GeForce RTX 5060ti[16GB](약 88만원)</option>
+            <option value="6">GeForce RTX 5070(약 100만원)</option>
+            <option value="7">GeForce RTX 5070ti(약 150만원)</option>
+            <option value="8">GeForce RTX 5080(약 230만원)</option>
+            <option value="9">GeForce RTX 5090[8GB](약 580만원)</option>
+            <option value="10">---AMD Radeon RХ 9000---</option>
+            <option value="11">AMD Radeon RХ 9060(약 50만원)</option>
+            <option value="12">AMD Radeon RХ 9060XT(약 68만원)</option>
+            <option value="13">AMD Radeon RХ 9070(약 95만원)</option>
+            <option value="14">AMD Radeon RХ 9070XT(약 120만원)</option>
+        </select><hr>
+        <h4>RAM</h4>
+         <select name = "ram">
+             <option value="1" selected>---RAM---</option>
+             <option value="2">DDR4 16GB[8GB*2](약 22만원)</option>
+             <option value="3">DDR4 32GB[16GB*2](약 45만원)</option>
+             <option value="4">DDR5 16GB[8GB*2](약 30만원)</option>
+             <option value="5">DDR5 32GB[16GB*2](약 70만원)</option>
+             <option value="6">DDR5 64GB[32GB*2](약 130만원)</option>
+            </select><hr>
+        <h4>SDD</h4>
+         <select name = "sdd">
+             <option value="1" selected>---Storage---</option>
+             <option value="3">NVMe SSD 1TB(약 30만원)</option>
+             <option value="4">NVMe SSD 2TB(약 56만원)</option>
+            <option value="5">NVMe SSD 4TB(약 110만원)</option>
+            </select><hr>
+
+    </body>
+</html>
